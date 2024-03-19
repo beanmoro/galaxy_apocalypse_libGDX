@@ -1,0 +1,4 @@
+Medidas
+
+Naves : 64x32
+Balas : 32x16

@@ -1,0 +1,2 @@
+SHIPS DATA : Nombre // velocidad basica // Velocidad // Punto X // Punto Y // Ancho // Alto // 0 // 0
+BULLETS DATA : Nombre // Daño // Velocidad // Punto X // Punto Y // Ancho // Alto
